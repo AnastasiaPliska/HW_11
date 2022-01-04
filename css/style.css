@@ -45,7 +45,7 @@ a {
     padding-right:16px;
     border-radius: 4px;
     margin-top:10px;
-}
+    }
 
 /* Потом специальные правила по страничкам */
 
@@ -106,5 +106,11 @@ a {
 }
 
 .button-link {
-
+    color: white;
+    background-color: #4169E1;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-top:10px;
+    margin-right:10px;
+    text-decoration:none;
 }
