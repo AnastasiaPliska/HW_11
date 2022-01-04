@@ -65,19 +65,34 @@ a {
 /* Страничка жанров и тегов */
 
 .genre-first {
-
+    background-color: #E1F5EA;
+    padding:8px 16px;
+    margin-bottom:8px;
+    border-radius:4px;
 }
 
 .genre-second {
-
+    background-color: #CBEDFF;
+    padding:8px 16px;
+    margin-bottom:8px;
+    border-radius:4px;
+    width:75%;
 }
 
 .genre-third {
-
+    background-color: #FBECDD;
+    padding:8px 16px;
+    margin-bottom:8px;
+    border-radius:4px;
+    width:50%;
 }
 
 .genre-fourth {
-
+    background-color: #EBDCF9;
+    padding:8px 16px;
+    margin-bottom:8px;
+    border-radius:4px;
+    width:30%;
 }
 
 .tag {
