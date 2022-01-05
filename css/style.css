@@ -7,7 +7,7 @@
 /* Потом селекторы по тегам */
 
 html {
-font-family:Arial;
+    font-family:Arial;
 }
 
 main {
@@ -97,7 +97,7 @@ a {
 }
 
 .tag {
-
+    color:#8080ff;
 }
 
 /* Страничка популярного */
@@ -110,15 +110,23 @@ a {
 /* Страничка подписки  */
 
 .box-green {
-
+    background-color: #E1F5EA;
+    padding:16px;
+    margin-bottom:30px;
+    border-radius:4px;
 }
 
 .box-purple {
-
+    background-color: #EBDCF9;
+    padding:16px;
+    margin-top:50px;
+    margin-bottom:30px;
+    border-radius:4px;
 }
 
 .text-large {
-
+  font-size: 20px;
+  font-weight:bold;
 }
 
 .button-link {
